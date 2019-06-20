@@ -3,33 +3,33 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "content":"日本政府通过AI提高结婚率:18日，日本政府在内阁会议上公布了《少子化社会对策白皮书》，介绍了增加相亲活动、AI 匹配等方式，希望提高年轻人的结婚率。"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "content":"概率对每个人都是公平的，坚持自己的理念，放弃那些短期看来不错的机会，也不要为错过不属于你的机会而懊恼，你才会得到“最终的正确”。"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "content":"一个人除了赚钱满足自己的成就感之外，就是为了让自己生活得更好一点，如果只顾赚钱，并赔上自己的健康，那是很不值得的。——李嘉诚"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "这个黑科技厉害了！",
       "postId": 1
     },
     {
-      "id": 2,
-      "body": "some comment",
+      "id": 3,
+      "body": "李超人威武！",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "施富"
   },
   "test": {
-    "name": "这个是测试内容"
+    "name": "https://my-json-server.typicode.com/xiewenlin/json_mock/test"
   }
 }
