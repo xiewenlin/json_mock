@@ -7,3 +7,10 @@ JSONPlaceholder是一个免费的在线REST API，您可以在需要某些虚假
 
 在线REST API访问地址：https://my-json-server.typicode.com/xiewenlin/json_mock
 
+例
+在控制台或任何站点中运行此代码：
+
+fetch('https://jsonplaceholder.typicode.com/todos/1')
+  .then(response => response.json())
+  .then(json => console.log(json))
+
