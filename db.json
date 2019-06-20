@@ -28,5 +28,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "test": {
+    "name": "这个是测试内容"
   }
 }
