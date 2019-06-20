@@ -5,5 +5,5 @@
 JSONPlaceholder是一个免费的在线REST API，您可以在需要某些虚假数据时使用它。 
 它非常适合教程，测试新库，共享代码示例，......
 
-访问地址：https://my-json-server.typicode.com/xiewenlin/json_mock/【这里填写json文件名称，比如test.json】
+在线REST API访问地址：https://my-json-server.typicode.com/xiewenlin/json_mock
 
