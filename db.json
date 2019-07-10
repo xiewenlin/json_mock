@@ -31,6 +31,11 @@
   },
   "test": {
     "name": "王者荣耀，不见不散！一个人除了赚钱满足自己的成就感之外，就是为了让自己生活得更好一点，如果只顾赚钱，并赔上自己的健康，那是很不值得的。——李嘉诚",
-    "url":"https://my-json-server.typicode.com/xiewenlin/json_mock/test"
+    "url":"https://my-json-server.typicode.com/xiewenlin/json_mock/test",
+    "slides":[
+      {"image":"https://cdn.nlark.com/yuque/0/2019/png/195205/1561449687981-3bafe826-423d-4195-aacc-5953f46b3c13.png?x-oss-process=image/resize,w_746"},
+      {"image":"https://cdn.nlark.com/yuque/0/2019/jpeg/195205/1557578677074-5559011c-a726-4090-94f0-65fd67c3db29.jpeg"},
+      {"image":"https://cdn.nlark.com/yuque/0/2019/jpeg/195205/1556525791519-a9e24672-fabb-4e23-b1bc-7dc61b45641a.jpeg?x-oss-process=image/resize,w_746"}
+    ]
   }
 }
