@@ -49,6 +49,10 @@
       {"image":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t16828/63/2653634926/5662/d18f6fa1/5b03b779N5c0b196f.png","mallCategoryName":"赚钱"},
       {"image":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/22262/9/1470/4527/5c120cd0E5d3c6c66/4792ec307a853e9f.png","mallCategoryName":"Plus会员"}
     ],
-    "adBannerUrl":"https://cdn.nlark.com/yuque/0/2019/png/195205/1562751169931-cb6631a1-0ad0-4e8b-8c10-f3c1c6219940.png"
+    "adBannerUrl":"https://cdn.nlark.com/yuque/0/2019/png/195205/1562751169931-cb6631a1-0ad0-4e8b-8c10-f3c1c6219940.png",
+    "shopInfo":{
+      "leaderImage":"https://cdn.nlark.com/yuque/0/2019/png/195205/1562751169931-cb6631a1-0ad0-4e8b-8c10-f3c1c6219940.png",
+      "leaderPhone":"18337936988"
+    }
   }
 }
