@@ -53,6 +53,12 @@
     "shopInfo":{
       "leaderImage":"https://cdn.nlark.com/yuque/0/2019/png/195205/1562751169931-cb6631a1-0ad0-4e8b-8c10-f3c1c6219940.png",
       "leaderPhone":"18337936988"
-    }
+    },
+    "recommendList":[
+      {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t22198/129/362653453/91416/1b2f6c94/5b0b83dfNba71b3c5.jpg.dpg","mallPrice":"389","price":"529"},
+      {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/59772/32/3583/191176/5d1c263eE4639f3d3/edc502a27f94c298.jpg.dpg","mallPrice":"35","price":"42"},
+      {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/82070/23/3491/193013/5d1d6491Ec3a05d48/6d8f83f9f5653f7e.jpg.dpg","mallPrice":"138.9","price":"300"},
+      {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/51738/16/4023/108663/5d1aef04E1a7ba4c2/6783a589b81170dc.png","mallPrice":"2888","price":"1999"}
+    ]
   }
 }
