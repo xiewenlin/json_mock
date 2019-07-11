@@ -68,15 +68,14 @@
         {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/54749/10/2355/186251/5d02596dEf189a559/ec8af48f2866692b.jpg.dpg","mallPrice":"138.9","price":"300"},
         {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/38780/3/513/120424/5cb9a7a8Efd334fb9/6e802039592a89a4.jpg.dpg","mallPrice":"138.9","price":"300"},
         {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/24719/4/15377/376386/5caff612Ed2715284/e97073b9fee27e1d.jpg.dpg","mallPrice":"2888","price":"1999"}
-      ],
-      "hotGoodsList":[
-        {"image":"https://m.360buyimg.com/n1/s150x150_jfs/t29566/227/1464891645/10350/a5b133e2/5ce20cdcNd9cdd972.jpg!q70.jpg.dpg","name":"5号商品","mallPrice":"138.9","price":"300"},
-        {"image":"https://m.360buyimg.com/mobilecms/s150x150_jfs/t1/76945/35/760/26244/5cef9705E501242ee/c56b89c0946438ef.jpg!q70.jpg.dpg","name":"6号商品","mallPrice":"138.9","price":"300"},
-        {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t22198/129/362653453/91416/1b2f6c94/5b0b83dfNba71b3c5.jpg.dpg","name":"1号商品","mallPrice":"389","price":"529"},
-        {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/59772/32/3583/191176/5d1c263eE4639f3d3/edc502a27f94c298.jpg.dpg","name":"2号商品","mallPrice":"35","price":"42"},
-        {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/82070/23/3491/193013/5d1d6491Ec3a05d48/6d8f83f9f5653f7e.jpg.dpg","name":"3号商品","mallPrice":"138.9","price":"300"},
-        {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/51738/16/4023/108663/5d1aef04E1a7ba4c2/6783a589b81170dc.png","name":"4号商品","mallPrice":"2888","price":"1999"}
       ]
-    }
+    },"hotGoodsList":[
+      {"image":"https://m.360buyimg.com/n1/s150x150_jfs/t29566/227/1464891645/10350/a5b133e2/5ce20cdcNd9cdd972.jpg!q70.jpg.dpg","name":"5号商品","mallPrice":"138.9","price":"300"},
+      {"image":"https://m.360buyimg.com/mobilecms/s150x150_jfs/t1/76945/35/760/26244/5cef9705E501242ee/c56b89c0946438ef.jpg!q70.jpg.dpg","name":"6号商品","mallPrice":"138.9","price":"300"},
+      {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t22198/129/362653453/91416/1b2f6c94/5b0b83dfNba71b3c5.jpg.dpg","name":"1号商品","mallPrice":"389","price":"529"},
+      {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/59772/32/3583/191176/5d1c263eE4639f3d3/edc502a27f94c298.jpg.dpg","name":"2号商品","mallPrice":"35","price":"42"},
+      {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/82070/23/3491/193013/5d1d6491Ec3a05d48/6d8f83f9f5653f7e.jpg.dpg","name":"3号商品","mallPrice":"138.9","price":"300"},
+      {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/51738/16/4023/108663/5d1aef04E1a7ba4c2/6783a589b81170dc.png","name":"4号商品","mallPrice":"2888","price":"1999"}
+    ]
   }
 }
