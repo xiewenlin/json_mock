@@ -33,12 +33,27 @@
     "categoryList":{
       "code": "0",
       "message": "success",
-      "data": [{
-        "mallCategoryId": "2c9f6c9468a85aef016925444ddb271b",
-        "mallCategoryName": "积分商品",
-        "bxMallSubDto": [],
+      "data": [ {
+        "mallCategoryId": "2c9f6c946449ea7e01647cd08369001f",
+        "mallCategoryName": "粮油调味",
+        "bxMallSubDto": [{
+          "mallSubId": "2c9f6c946449ea7e01647dd2e8270043",
+          "mallCategoryId": "2c9f6c946449ea7e01647cd08369001f",
+          "mallSubName": "油/粮食",
+          "comments": ""
+        }, {
+          "mallSubId": "2c9f6c946449ea7e01647dd31bca0044",
+          "mallCategoryId": "2c9f6c946449ea7e01647cd08369001f",
+          "mallSubName": "调味品",
+          "comments": ""
+        }, {
+          "mallSubId": "2c9f6c946449ea7e01647dd35a980045",
+          "mallCategoryId": "2c9f6c946449ea7e01647cd08369001f",
+          "mallSubName": "酱菜罐头",
+          "comments": ""
+        }],
         "comments": null,
-        "image": "http://images.baixingliangfan.cn/firstCategoryPicture/20190225/20190225232703_9950.png"
+        "image": "http://images.baixingliangfan.cn/firstCategoryPicture/20181212/20181212115842_9733.png"
       }]
     }
   },
