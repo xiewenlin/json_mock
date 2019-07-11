@@ -29,6 +29,24 @@
   "profile": {
     "name": "创客俱乐部"
   },
+  "category":{
+    "categoryList":{
+      "code": "0",
+      "message": "success",
+      "data": [ {
+        "mallCategoryId": "2",
+        "mallCategoryName": "葡萄酒",
+        "bxMallSubDto": [{
+          "mallSubId": "2c9f6c9460337d540160337fefd60000",
+          "mallCategoryId": "2",
+          "mallSubName": "澳大利亚",
+          "comments": ""
+        }],
+        "comments": null,
+        "image": "http://images.baixingliangfan.cn/firstCategoryPicture/20190131/20190131170053_878.png"
+      }]
+    }
+  },
   "test": {
     "name": "王者荣耀，不见不散！一个人除了赚钱满足自己的成就感之外，就是为了让自己生活得更好一点，如果只顾赚钱，并赔上自己的健康，那是很不值得的。——李嘉诚",
     "url":"https://my-json-server.typicode.com/xiewenlin/json_mock/test",
@@ -76,22 +94,6 @@
       {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/59772/32/3583/191176/5d1c263eE4639f3d3/edc502a27f94c298.jpg.dpg","name":"2号商品","mallPrice":"35","price":"42"},
       {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/82070/23/3491/193013/5d1d6491Ec3a05d48/6d8f83f9f5653f7e.jpg.dpg","name":"3号商品","mallPrice":"138.9","price":"300"},
       {"image":"https://img14.360buyimg.com/n1/s150x150_jfs/t1/51738/16/4023/108663/5d1aef04E1a7ba4c2/6783a589b81170dc.png","name":"4号商品","mallPrice":"2888","price":"1999"}
-    ],
-    "categoryList":{
-      "code": "0",
-      "message": "success",
-      "data": [ {
-        "mallCategoryId": "2",
-        "mallCategoryName": "葡萄酒",
-        "bxMallSubDto": [{
-          "mallSubId": "2c9f6c9460337d540160337fefd60000",
-          "mallCategoryId": "2",
-          "mallSubName": "澳大利亚",
-          "comments": ""
-        }],
-        "comments": null,
-        "image": "http://images.baixingliangfan.cn/firstCategoryPicture/20190131/20190131170053_878.png"
-      }]
-    }
+    ]
   }
 }
