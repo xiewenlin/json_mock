@@ -33,63 +33,7 @@
     "categoryList":{
       "code": "0",
       "message": "success",
-      "data": [ {
-        "mallCategoryId": "2",
-        "mallCategoryName": "葡萄酒",
-        "bxMallSubDto": [{
-          "mallSubId": "2c9f6c9460337d540160337fefd60000",
-          "mallCategoryId": "2",
-          "mallSubName": "澳大利亚",
-          "comments": ""
-        }, {
-          "mallSubId": "402880e86016d1b5016016e083f10010",
-          "mallCategoryId": "2",
-          "mallSubName": "德国",
-          "comments": ""
-        }, {
-          "mallSubId": "402880e86016d1b5016016df1f92000c",
-          "mallCategoryId": "2",
-          "mallSubName": "法国",
-          "comments": ""
-        }, {
-          "mallSubId": "2c9f6c94621970a801626a40feac0178",
-          "mallCategoryId": "2",
-          "mallSubName": "南非",
-          "comments": ""
-        }, {
-          "mallSubId": "2c9f6c94679b4fb10167f7e5c9a115dc",
-          "mallCategoryId": "2",
-          "mallSubName": "葡萄牙",
-          "comments": null
-        }, {
-          "mallSubId": "2c9f6c94679b4fb10167f7e5e68f15dd",
-          "mallCategoryId": "2",
-          "mallSubName": "西班牙",
-          "comments": null
-        }, {
-          "mallSubId": "2c9f6c94679b4fb10167f7e609f515de",
-          "mallCategoryId": "2",
-          "mallSubName": "新西兰",
-          "comments": null
-        }, {
-          "mallSubId": "2c9f6c94679b4fb10167f7e6286a15df",
-          "mallCategoryId": "2",
-          "mallSubName": "意大利",
-          "comments": null
-        }, {
-          "mallSubId": "2c9f6c94679b4fb10167f7e6486615e0",
-          "mallCategoryId": "2",
-          "mallSubName": "智利",
-          "comments": null
-        }, {
-          "mallSubId": "2c9f6c94679b4fb10167f7e66c6815e1",
-          "mallCategoryId": "2",
-          "mallSubName": "中国",
-          "comments": null
-        }],
-        "comments": null,
-        "image": "http://images.baixingliangfan.cn/firstCategoryPicture/20190131/20190131170053_878.png"
-      },{
+      "data": [{
         "mallCategoryId": "2c9f6c9468a85aef016925444ddb271b",
         "mallCategoryName": "积分商品",
         "bxMallSubDto": [],
